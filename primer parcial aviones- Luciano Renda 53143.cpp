@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Definici�n de la estructura para el jugador
+// Definicion de la estructura para el jugador
 typedef struct {
 	char nombre[51]; 
 	int puntaje;
